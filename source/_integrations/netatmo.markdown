@@ -102,7 +102,7 @@ The `netatmo` cover platform provides support for Bubendorff shutters.
 
 ## Fan
 
-The `netatmo` fan plaform provides support for Legrand centralized ventilation control.
+The `netatmo` fan platform provides support for Legrand centralized ventilation control.
 
 ## Light
 
@@ -264,7 +264,7 @@ During the process you have to choose the new Application Credentials name.
 
 ### Receiving events
 
-To confirm your Home Assistant instance is receiving events via webhooks, you can listen to `netatmo_event` in {% my developer_events title="**Settings** > **Developer tools** > **Events**" %}.
+To confirm your Home Assistant instance is receiving events via webhooks, you can listen to `netatmo_event` in {% my developer_events title="**Settings** > **Tools** > **Events**" %}.
 
 ### Light
 
